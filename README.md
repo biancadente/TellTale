@@ -22,10 +22,11 @@ The following guides illustrate how to use some features concretely:
 * [Handling Form Submission](https://spring.io/guides/gs/handling-form-submission/)
 
 ## Participantes
- * Juanfe Romero
- * Marcos G. Frites
- * Juanfe Otra vez
- * Mirna Pamela Diaz
- * Seba Gimenez
  * Bianca Dente
- * Juanfe Otra vez
+ * Juan F. Romero
+ * Marcos G. Frites
+ * Vilma Garcia Barrera
+ * Mirna P. Diaz
+ * Sebastián Gimenez
+ * Caterina Cunsolo
+
